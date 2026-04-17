@@ -54,7 +54,7 @@ function App() {
             <h1>
               Hi, I'm <span>Abhishek</span> 👋
             </h1>
-            <p>MCA Student | Web Developer</p>
+            <p>BCA Student | Web Developer</p>
 
             <a href="/abhishek-resume.pdf" download>
             <button className="btn">Download Resume</button>
